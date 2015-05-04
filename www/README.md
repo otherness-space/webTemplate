@@ -1,2 +1,1 @@
-# www_folder.md
-
+# This is the folder with the web hierarchy.
