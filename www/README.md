@@ -30,7 +30,7 @@
 
 # What if information design on the web was framed as information design for public spaces? How would it be more or less effective?
 
-# ...
+# What if presentation, data visualization or web delivery was wrapped in such a way that would make the taste of ashes compelling and engaging?
 
 ##
 

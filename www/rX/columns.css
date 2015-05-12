@@ -1,0 +1,87 @@
+<style>
+
+.headerTopCol {
+    -webkit-column-count: 12; /* Chrome, Safari, Opera */
+    -moz-column-count: 12; /* Firefox */
+    column-count: 12;
+}
+
+.headerMiddleCol {
+    -webkit-column-count: 12; /* Chrome, Safari, Opera */
+    -moz-column-count: 12; /* Firefox */
+    column-count: 12;
+}
+
+.headerBottomCol {
+    -webkit-column-count: 12; /* Chrome, Safari, Opera */
+    -moz-column-count: 12; /* Firefox */
+    column-count: 12;
+}
+
+.navCol {
+    -webkit-column-count: 12; /* Chrome, Safari, Opera */
+    -moz-column-count: 12; /* Firefox */
+    column-count: 12;
+}
+
+.sectionCol {
+    -webkit-column-count: 8; /* Chrome, Safari, Opera */
+    -moz-column-count: 8; /* Firefox */
+    column-count: 8;
+}
+
+.articleCol {
+    -webkit-column-count: 8; /* Chrome, Safari, Opera */
+    -moz-column-count: 8; /* Firefox */
+    column-count: 8;
+}
+
+.asideLeftCol {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
+
+.asideRightCol {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
+
+.footerTop {
+    -webkit-column-count: 12; /* Chrome, Safari, Opera */
+    -moz-column-count: 12; /* Firefox */
+    column-count: 12;
+}
+
+.footerMiddle {
+    -webkit-column-count: 12; /* Chrome, Safari, Opera */
+    -moz-column-count: 12; /* Firefox */
+    column-count: 12;
+}
+
+.footerBottom {
+    -webkit-column-count: 12; /* Chrome, Safari, Opera */
+    -moz-column-count: 12; /* Firefox */
+    column-count: 12;
+}
+
+
+
+/*
+
+# header_top 12
+# header_middle 12
+# header_bottom 12
+# nav 12
+# section 8
+# article 8
+# aside_left 2
+# aside_right 2
+# footer_top 12
+# footer_middle 12
+# footer_bottom 12
+
+*/
+
+</style>
